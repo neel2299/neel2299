@@ -2,8 +2,8 @@
 
 
 - 🎓 I am in 3rd year studying Electronics and Communication Engineering at Jawaharlal Nehru University, New Delhi. 
-- 👩‍💻 I am learning Data Structures and Efficient Algortihms
-- 💻 I am interested in domain of Data Science and have some related projects.
+- 👩‍💻 I am learning Data Structures and Algortihms
+- 💻 I am interested in domain of Data Science and have done some related projects.
 - 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suhaas-neel-a40296158/) or can send me an email at suhaasneel22@gmail.com.                                     
   
   
