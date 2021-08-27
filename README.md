@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Suniti</h1>
+<h1>👋 Hi there, I'm Suhaas</h1>
 
 
 - 🎓 I am in 3rd year studying Electronics and Communication Engineering at Jawaharlal Nehru University, New Delhi. 
