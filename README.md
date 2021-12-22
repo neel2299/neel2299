@@ -1,4 +1,4 @@
-<h1>👋 Hi there, I'm Suhaas</h1>
+<h1>👋Hi, How did you get here??🤔🤔 , I'm Suhaas</h1>
 
 
 - 🎓 I am in 3rd year studying Electronics and Communication Engineering at Jawaharlal Nehru University, New Delhi. 
@@ -9,11 +9,6 @@
   
   <br>
 
-<br><br><br><br>
-<p align="left"><h2>📊 My GitHub Stats </p></h2>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=neel2299&show_icons=true&theme=tokyonight)
-<br><br><br>
 
 
 
