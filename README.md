@@ -1,4 +1,4 @@
-<h1> How did you get here??🤔🤔 , Anyways... I'm Neel</h1>
+<h1> How did you get here??🤔👩‍💻 , Anyways... I'm Neel</h1>
 
 
 - 🎓 I am in the 2nd year of the IIT Madras, Chennai data science programme and in 3rd year studying Electronics and Communication Engineering at Jawaharlal Nehru University, New Delhi. 
