@@ -1,7 +1,7 @@
 <h1> How did you get here??🤔👩‍💻 , Anyways... I'm Neel</h1>
 
 
-- 🎓 I am in the 2nd year of the IIT Madras, Chennai data science programme. 
+- 🎓 I am in the 2nd year of the IIT Madras data science programme. 
 - 👩‍💻 I am working on my Statistical Learning skills.
 - 💻 I am interested in the domain of Data Science and have done some related projects.
 - 🗨 You can connect with me on [LinkedIn](https://www.linkedin.com/in/suhaas-neel-a40296158/) or can send me an email at suhaasneel22@gmail.com.                                     
